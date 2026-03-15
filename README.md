@@ -59,6 +59,7 @@ Model graph:
 
 
 Open circuit characteristics
+
 ![alt text](image-4.png)
   
 Load Characteristics:
